@@ -8,7 +8,8 @@ When you use it, you should copy at least three lines to you clipboard. For exam
 
 G[S]  
 S,A,B,C  
-S::=BA
+S::=BA  
+C::=0|1|2|3|4|5|6|ε
 
 After you copy it, you can click the first button and then it is all right.
 
