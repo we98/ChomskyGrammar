@@ -6,8 +6,8 @@ This is based on Javafx, developed on Intellij IDEA plateform. So before you use
 ## How to use it?
 When you use it, you should copy at least three lines to you clipboard. For example:
 
-G[S]
-S,A,B,C
+G[S]  
+S,A,B,C  
 S::=BA
 
 After you copy it, you can click the first button and then it is all right.
