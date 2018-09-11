@@ -158,7 +158,7 @@ public class UIController implements Initializable {
         if(nonTerminalSymbol.getText().equals("")){
             return true;
         }
-        String regEx = ".(,.)*";
+        String regEx = "[A-Z](,[A-Z])*";
         Pattern pattern = Pattern.compile(regEx);
         // 忽略大小写的写法
         // Pattern pat = Pattern.compile(regEx, Pattern.CASE_INSENSITIVE);
